@@ -1,0 +1,45 @@
+
+body{
+
+background-image: url("../images/pic_9.jpg");
+background-repeat: repeat-y;
+background-position: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 170px;
+    margin-left: 170px;
+    font-size: 22px;
+    font-family: Sukhumvit Set;
+	font-weight: lighter;
+  
+
+}
+#About{
+	width: 150px;
+	height: 50px;
+	background-image: url("../images/4-3.jpg");
+	position: center;
+	text-align: center;
+}
+
+#Artworks{
+	width: 150px;
+	height: 50px;
+	background-image: url("../images/4-2.jpg");
+	position: center;
+	text-align: center;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-family: Sukhumvit Set;
+	font-weight: bold;
+}
+
+h2{
+	text-align: center;
+	font-size: 25px;
+	font-family: Sukhumvit Set;
+	font-weight: bold;
+	margin-bottom: 50px;
+

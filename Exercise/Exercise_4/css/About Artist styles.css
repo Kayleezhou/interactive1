@@ -1,0 +1,33 @@
+
+body{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f7d98f+0,fe9090+56,ff7f7f+100 */
+background: rgb(247,217,143); /* Old browsers */
+background: -moz-linear-gradient(45deg,  rgba(247,217,143,1) 0%, rgba(254,144,144,1) 56%, rgba(255,127,127,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  rgba(247,217,143,1) 0%,rgba(254,144,144,1) 56%,rgba(255,127,127,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  rgba(247,217,143,1) 0%,rgba(254,144,144,1) 56%,rgba(255,127,127,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7d98f', endColorstr='#ff7f7f',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+
+margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 170px;
+    margin-left: 170px;
+    font-size: 22px;
+    font-weight: lighter;
+
+}
+
+
+h1{
+	color: black;
+	text-align: center;
+	text-decoration: underline;
+}
+
+
+#picture{
+	margin: auto;
+	position: center;
+	text-align: center;
+
+}
