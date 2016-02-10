@@ -1,0 +1,24 @@
+h1{
+	font-size: 60px;
+	font-family: Sukhumvit Set;
+	font-weight: lighter;
+}
+h2{
+	font-family: Sukhumvit Set;
+	font-weight: lighter;
+	font-size: 40px;
+}
+
+
+
+
+
+#interview{
+	font-family: arial;
+	font-size: 20px;
+	width: 150px;
+	height: 50px;
+	background-image: url("../images/4-3.jpg");
+	position: center;
+	text-align: center;
+}

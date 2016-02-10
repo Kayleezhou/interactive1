@@ -1,19 +1,17 @@
 
 body{
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f7d98f+0,fe9090+56,ff7f7f+100 */
-background: rgb(247,217,143); /* Old browsers */
-background: -moz-linear-gradient(45deg,  rgba(247,217,143,1) 0%, rgba(254,144,144,1) 56%, rgba(255,127,127,1) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(45deg,  rgba(247,217,143,1) 0%,rgba(254,144,144,1) 56%,rgba(255,127,127,1) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(45deg,  rgba(247,217,143,1) 0%,rgba(254,144,144,1) 56%,rgba(255,127,127,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7d98f', endColorstr='#ff7f7f',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
+background-image: url("../images/pic_9.jpg");
+background-repeat: repeat-y;
+background-position: center;
 
 margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 170px;
     margin-left: 170px;
-    font-size: 22px;
+    font-size: 16px;
     font-weight: lighter;
+    font-family: Sukhumvit Set;
+	
 
 }
 
@@ -21,12 +19,14 @@ margin-top: 100px;
 h1{
 	color: black;
 	text-align: center;
-	text-decoration: underline;
+	font-size: 28px;
+	font-family: Sukhumvit Set;
+	font-weight: bold;
 }
 
 
 #picture{
-	margin: auto;
+	
 	position: center;
 	text-align: center;
 
