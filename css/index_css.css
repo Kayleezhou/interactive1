@@ -2,11 +2,15 @@ h1{
 	font-size: 60px;
 	font-family: Sukhumvit Set;
 	font-weight: lighter;
+	text-align: center;
+
 }
 h2{
 	font-family: Sukhumvit Set;
 	font-weight: lighter;
 	font-size: 40px;
+	text-align: center;
+	text-decoration: underline;
 }
 
 
@@ -14,22 +18,30 @@ h2{
 
 
 #interview{
-	font-family: arial;
+	font-family: Sukhumvit Set;
 	font-size: 20px;
 	width: 150px;
 	height: 50px;
 	background-image: url("../images/4-3.jpg");
-	position: center;
-	text-align: center;
+	
+
 }
 
 #project2{
 
-	font-family: arial;
+	font-family: Sukhumvit Set;
 	font-size: 20px;
-	width: 150px;
+	width: 350px;
 	height: 50px;
 	background-image: url("../images/4-3.jpg");
-	position: center;
-	text-align: center;
+	}
+
+#project3{
+	font-family: Sukhumvit Set;
+	font-size: 20px;
+	width: 350px;
+	height: 50px;
+	background-image: url("../images/4-3.jpg");
+	
+
 }
