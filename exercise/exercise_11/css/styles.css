@@ -1,0 +1,41 @@
+body{
+	background-color: pink;
+}
+
+
+@font-face{
+	font-family: 'signpainter';
+	src:url("signpainter.otf");
+}
+
+@font-face{
+	font-family: 'missionNgothic';
+	src:url("missiongothic.otf");
+}
+
+@font-face{
+	font-family: 'sfnsdisplay';
+	src:url("sfnsdisplay.otf");
+}
+
+
+#container{
+	width: 1200px;
+	height: 4000px;
+	margin: auto;
+	font-size: 400px;
+}
+
+
+#main{
+	font-family: signpainter;
+}
+
+#main2{
+	font-family: missiongothic;
+}
+
+#main3{
+	font-family: sfnsdisplay;
+}
+

@@ -1,0 +1,33 @@
+.box1{
+	background: pink;
+	color: yellow;
+	font-size: 30px;
+	width: 200px;
+	height: 100px;
+	font-family: Arial;
+	margin-bottom: 300px;
+	padding: 30px;
+}
+
+.box2{
+	background: #72283F;
+	color: #47A6D6;
+	font-size: 100px;
+	width: 1000px;
+	height: 100px;
+	font-family: helvetica;
+	margin-bottom: 40px;
+	text-align: center;
+	padding: 30px;
+}
+
+.box3{
+	color: blue;
+	font-size: 30px;
+	width: 1000px;
+	height: 100px;
+	font-family: helvetica;
+	margin-bottom: 40px;
+	text-align: center;
+	padding: 30px;
+}
