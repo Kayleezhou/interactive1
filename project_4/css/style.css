@@ -1,3 +1,4 @@
+
 .tree_1{
 	text-align: right;
 	font-size: 20px;
@@ -784,18 +785,17 @@
 
 
 .box1{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Alex Brush', cursive;
 	color: #FFA300;
 	top: 1000px;
 	left: 480px;
 	font-size: 50px;
 	animation-iteration-count: infinite;
-
 	position: absolute;
 
 }
  .box2{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Alex Brush', cursive;
 	color: #FFA300;
 	top: 1200px;
 	left: 300px;
@@ -805,7 +805,7 @@
 
 }
  .box3{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Alex Brush', cursive;
 	color: #FFA300;
 	top: 1230px;
 	left: 500px;
@@ -815,7 +815,7 @@
 
 }
  .box4{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Alex Brush', cursive;
 	color: #FFA300;
 	top: 1500px;
 	left: 800px;
@@ -825,7 +825,7 @@
 
 }
  .box5{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Alex Brush', cursive;
 	color: #FFA300;
 	top: 1200px;
 	left: 700px;
@@ -835,7 +835,7 @@
 
 }
  .box6{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Alex Brush', cursive;
 	color: #FFA300;
 	top: 1300px;
 	left: 800px;
@@ -847,7 +847,7 @@
  
 
 .box7{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	color: #D4D5D8;
 	top: 1600px;
 	left: 700px;
@@ -856,7 +856,7 @@
 
 }
 .box8{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	color: #D4D5D8;
 	top: 1700px;
 	left: 500px;
@@ -865,7 +865,7 @@
 
 }
 .box9{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	color: #D4D5D8;
 	top: 2100px;
 	left: 200px;
@@ -874,7 +874,7 @@
 
 }
 .box10{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	color: #D4D5D8;
 	top: 1850px;
 	left: 700px;
@@ -883,7 +883,7 @@
 
 }
 .box11{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	color: #D4D5D8;
 	top: 1500px;
 	left: 300px;
@@ -892,7 +892,7 @@
 
 }
 .box12{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	color: #D4D5D8;
 	top: 1600px;
 	left: 900px;
@@ -901,7 +901,7 @@
 
 }
 .box13{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	color: #D4D5D8;
 	top: 1300px;
 	left: 100px;
@@ -910,7 +910,7 @@
 
 }
 .box14{
-	font-family:'Raleway', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	color: #D4D5D8;
 	top: 1700px;
 	left: 100px;
@@ -919,13 +919,68 @@
 
 }
 .box15{
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	color: #D4D5D8;
 	top: 2600px;
 	left: 500px;
 	font-size: 20px;
 	position: absolute;
 }
+.box16{
+	font-family: 'Nunito', sans-serif;
+	color: #D4D5D8;
+	top: 1400px;
+	left: 600px;
+	font-size: 15px;
+	position: absolute;
+
+}
+.box17{
+	font-family: 'Nunito', sans-serif;
+	color: #D4D5D8;
+	top: 1900px;
+	left: 790px;
+	font-size: 50px;
+	position: absolute;
+
+}
+.box18{
+	font-family: 'Nunito', sans-serif;
+	color: #D4D5D8;
+	top: 2400px;
+	left: 900px;
+	font-size: 20px;
+	position: absolute;
+}
+.box19{
+	font-family: 'Nunito', sans-serif;
+	color: #D4D5D8;
+	top: 1500px;
+	left: 700px;
+	font-size: 20px;
+	position: absolute;
+
+}
+.box20{
+	font-family: 'Nunito', sans-serif;
+	color: #D4D5D8;
+	top: 1800px;
+	left: 600px;
+	font-size: 50px;
+	position: absolute;
+
+}
+.box21{
+	font-family: 'Nunito', sans-serif;
+	color: #D4D5D8;
+	top: 2700px;
+	left: 600px;
+	font-size: 20px;
+	position: absolute;
+}
+
+
+
 .tree4_1{
 	text-align: right;
 	font-size: 25px;
@@ -953,36 +1008,42 @@
 	position: absolute;
 }
 .flower_1{
+	font-family: 'Nunito', sans-serif;
 	font-size: 12px;
 	top: 3290px;
 	left: 600px;
 	position: absolute;
 }
 .flower_2{
+	font-family: 'Nunito', sans-serif;
 	font-size: 12px;
 	top: 3280px;
 	left: 600px;
 	position: absolute;
 }
 .flower_3{
+	font-family: 'Nunito', sans-serif;
 	font-size: 12px;
 	top: 3270px;
 	left: 600px;
 	position: absolute;
 }
 .flower_4{
+	font-family: 'Nunito', sans-serif;
 	font-size: 12px;
 	top: 3260px;
 	left: 600px;
 	position: absolute;
 }
 .flower_5{
+	font-family: 'Nunito', sans-serif;
 	font-size: 12px;
 	top: 3250px;
 	left: 600px;
 	position: absolute;
 }
 .flower_6{
+	font-family: 'Nunito', sans-serif;
 	font-size: 12px;
 	top: 3240px;
 	left: 600px;
